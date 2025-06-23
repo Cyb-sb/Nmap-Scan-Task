@@ -1,0 +1,65 @@
+# Nmap 7.97 scan initiated Mon Jun 23 18:43:40 2025 as: nmap -sS -oN C:\\Users\\Dell\\Desktop\\scan_results.txt 192.168.1.0/24
+Nmap scan report for 192.168.1.164
+Host is up (0.059s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+53/tcp  open   domain
+113/tcp closed ident
+
+Nmap scan report for 192.168.1.166
+Host is up (0.061s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+53/tcp  open   domain
+113/tcp closed ident
+
+Nmap scan report for 192.168.1.167
+Host is up (0.058s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+53/tcp  open   domain
+113/tcp closed ident
+
+Nmap scan report for 192.168.1.248
+Host is up (0.062s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+53/tcp  open   domain
+113/tcp closed ident
+
+Nmap scan report for 192.168.1.249
+Host is up (0.060s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+53/tcp  open   domain
+113/tcp closed ident
+
+Nmap scan report for 192.168.1.251
+Host is up (0.067s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+53/tcp  open   domain
+113/tcp closed ident
+
+Nmap scan report for 192.168.1.252
+Host is up (0.057s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+53/tcp  open   domain
+113/tcp closed ident
+
+Nmap scan report for 192.168.1.253
+Host is up (0.056s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+53/tcp  open   domain
+113/tcp closed ident
+
+Nmap scan report for 192.168.1.255
+Host is up (0.056s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT    STATE  SERVICE
+53/tcp  open   domain
+113/tcp closed ident
+
+# Nmap done at Mon Jun 23 18:47:02 2025 -- 256 IP addresses (9 hosts up) scanned in 201.38 seconds
